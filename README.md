@@ -21,7 +21,7 @@ Render Pipeline: URP (Universal Render Pipeline)
 Target Platform: PC / VR
 
 📜 Installation
-Clone the repository: git clone [https://github.com/username/repository-name.git](https://github.com/username/repository-name.git)
+Clone the repository: git clone https://github.com/Reaxxx/UnityVRHistoricalRoom
 
 Open the project in Unity Hub using version 6 (6000.0.40f1).
 
