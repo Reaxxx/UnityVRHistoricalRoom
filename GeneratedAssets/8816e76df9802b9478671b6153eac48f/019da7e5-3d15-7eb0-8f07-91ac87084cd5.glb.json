@@ -1,0 +1,12 @@
+{
+    "asset": "8816e76df9802b9478671b6153eac48f",
+    "fileName": "019da7e5-3d15-7eb0-8f07-91ac87084cd5.glb",
+    "prompt": "A traditional Ottoman warrior helmet (Zırh Başlık) with a pointed top, chainmail veil, and intricate gold engravings, antique steel finish, high detail.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "6525529e0c3951e1cceabe6dbfe7ba50",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

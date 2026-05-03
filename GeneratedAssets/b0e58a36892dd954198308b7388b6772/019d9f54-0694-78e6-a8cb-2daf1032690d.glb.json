@@ -1,0 +1,12 @@
+{
+    "asset": "b0e58a36892dd954198308b7388b6772",
+    "fileName": "019d9f54-0694-78e6-a8cb-2daf1032690d.glb",
+    "prompt": "Tall elegant Ottoman exhibition pedestal table, dark wood with gold engravings, historical museum style, octagonal base, flat top for displaying artifacts.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "794586e310c29e8f19a99066f81aaebe",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

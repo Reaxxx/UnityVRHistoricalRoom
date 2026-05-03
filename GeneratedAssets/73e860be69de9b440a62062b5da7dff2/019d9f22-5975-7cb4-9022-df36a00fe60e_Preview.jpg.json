@@ -1,0 +1,12 @@
+{
+    "asset": "73e860be69de9b440a62062b5da7dff2",
+    "fileName": "019d9f22-5975-7cb4-9022-df36a00fe60e_Preview.jpg",
+    "prompt": "Gold leafed Ottoman kalem isi patterns on off-white matte plaster, royal palace ceiling decoration, intricate floral and geometric gold engravings, seamless.",
+    "negativePrompt": "",
+    "model": "1a149e0e-3482-46a2-be9b-de997b8829fb",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 2065889120,
+    "w3CTraceId": "edc0ae080c6ff9d4a7b9f0d705da18a7",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

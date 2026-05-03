@@ -1,0 +1,12 @@
+{
+    "asset": "ec2c3bd1ffbf2e14ba511f0f1d10d927",
+    "fileName": "019d9f22-ccad-7990-8753-a62bf94b6a5c_Preview.jpg",
+    "prompt": "Ottoman stained glass window (vitray), colorful geometric patterns, leaded glass, slightly translucent, glowing colors.",
+    "negativePrompt": "",
+    "model": "1a149e0e-3482-46a2-be9b-de997b8829fb",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 1368931748,
+    "w3CTraceId": "7a70f1b17b047294e6d7ac4004c2486b",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

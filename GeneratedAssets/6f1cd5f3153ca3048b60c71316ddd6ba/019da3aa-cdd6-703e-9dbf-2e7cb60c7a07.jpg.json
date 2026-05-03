@@ -1,0 +1,27 @@
+{
+    "asset": "6f1cd5f3153ca3048b60c71316ddd6ba",
+    "fileName": "019da3aa-cdd6-703e-9dbf-2e7cb60c7a07.jpg",
+    "prompt": "A cinematic 360-degree panoramic cubemap of 18th century Ottoman Istanbul during golden hour. The view features the majestic silhouettes of the Hagia Sophia and the Blue Mosque with their towering minarets piercing the hazy orange sky. In the foreground, traditional wooden houses (yalı) and stone structures line the Bosphorus. The water is filled with classic Ottoman sailboats (kayıks). The atmosphere is thick with historical nostalgia, warm sunlight, and a rich, detailed sky. 4k resolution, hyper-realistic historical accuracy.",
+    "negativePrompt": "",
+    "model": "b6e4038c-d863-467d-bb74-4ad8cfd22665",
+    "modelName": "Cinematic",
+    "customSeed": -1,
+    "w3CTraceId": "5bc5c1650016594e4b1f3abf120d0d29",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

@@ -1,0 +1,12 @@
+{
+    "asset": "30c245018fcdc16439d93db463880868",
+    "fileName": "019da3ad-e37f-7e2e-918d-2454e15b2eb4.glb",
+    "prompt": "A detailed 17th century Ottoman brass astrolabe used for astronomy, multiple plates with Arabic inscriptions, antique scientific instrument, high detail.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "2193456fc0c5145d03eea5cda65e775e",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

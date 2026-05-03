@@ -1,0 +1,27 @@
+{
+    "asset": "001525c178a27c64d8834a98e6bf2f8e",
+    "fileName": "019da1ce-4a2f-7e7b-96a4-89876501289f.png",
+    "prompt": "a professional high-quality photo of an ornate gold Ottoman Tuqhra (calligraphy seal) on a dark velvet background, museum display",
+    "negativePrompt": "",
+    "model": "856245a7-19a9-46f3-864c-899b31fd5f9f",
+    "modelName": "Nano Banana - T2i",
+    "customSeed": -1,
+    "w3CTraceId": "d2efc7dd1faefd12e1ef4eb8d1e7aaa6",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

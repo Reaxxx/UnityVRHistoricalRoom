@@ -1,0 +1,12 @@
+{
+    "asset": "b54e2e4a05ba3df48a0f2a5989706907",
+    "fileName": "019da2d6-795a-7d7f-9b9f-bbec2d394a3f.glb",
+    "prompt": "Ottoman octagonal side table, mother-of-pearl inlay patterns, Islamic art geometric designs, dark walnut wood, traditional Turkish style, high quality mesh and textures.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "ef4312aa5c2a1a9a5e75755f0405143d",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

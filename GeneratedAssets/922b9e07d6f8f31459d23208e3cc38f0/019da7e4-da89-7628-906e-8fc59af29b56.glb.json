@@ -1,0 +1,12 @@
+{
+    "asset": "922b9e07d6f8f31459d23208e3cc38f0",
+    "fileName": "019da7e4-da89-7628-906e-8fc59af29b56.glb",
+    "prompt": "A large, ornate Ottoman copper tray (Sini) with complex geometric and floral engravings, antique copper finish, high detail.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "7fc91f041ca8ecec79469b3139427c3d",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

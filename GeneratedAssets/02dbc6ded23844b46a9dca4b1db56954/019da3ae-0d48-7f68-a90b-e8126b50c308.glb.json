@@ -1,0 +1,12 @@
+{
+    "asset": "02dbc6ded23844b46a9dca4b1db56954",
+    "fileName": "019da3ae-0d48-7f68-a90b-e8126b50c308.glb",
+    "prompt": "An ornate Ottoman silver incense burner (buhurdan), tall elegant shape with filigree patterns, traditional Islamic art style, realistic metal material.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "b89cdcb8ab5c2498a9314bd5858ee252",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

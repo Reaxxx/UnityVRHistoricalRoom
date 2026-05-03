@@ -1,0 +1,12 @@
+{
+    "asset": "ce6764e6a15bbbc448ad8b22175737eb",
+    "fileName": "019da3ad-caab-79ed-b750-c5459427568d.glb",
+    "prompt": "A 16th century Ottoman warrior helmet (Chichak), tombak style with gold gilding, pointed top, intricate floral engravings, museum quality, realistic metal.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "9c5ee9ebfb3d26702ba7b25f5be51bcf",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

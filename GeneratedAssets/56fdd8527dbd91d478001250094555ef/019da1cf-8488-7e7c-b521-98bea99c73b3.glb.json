@@ -1,0 +1,12 @@
+{
+    "asset": "56fdd8527dbd91d478001250094555ef",
+    "fileName": "019da1cf-8488-7e7c-b521-98bea99c73b3.glb",
+    "prompt": "a traditional blue and white Iznik ceramic vase with floral patterns",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "0e4df01e43ea8ffb430cd78e4248a9dd",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

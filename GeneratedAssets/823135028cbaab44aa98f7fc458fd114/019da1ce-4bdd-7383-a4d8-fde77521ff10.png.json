@@ -1,0 +1,27 @@
+{
+    "asset": "823135028cbaab44aa98f7fc458fd114",
+    "fileName": "019da1ce-4bdd-7383-a4d8-fde77521ff10.png",
+    "prompt": "a classical portrait of an Ottoman Sultan in traditional royal robes and turban, majestic posture, oil on canvas",
+    "negativePrompt": "",
+    "model": "856245a7-19a9-46f3-864c-899b31fd5f9f",
+    "modelName": "Nano Banana - T2i",
+    "customSeed": -1,
+    "w3CTraceId": "dddb3a1b1f12e3e5fcf73216056b0ec3",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

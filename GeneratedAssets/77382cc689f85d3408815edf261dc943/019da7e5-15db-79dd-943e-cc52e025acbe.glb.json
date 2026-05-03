@@ -1,0 +1,12 @@
+{
+    "asset": "77382cc689f85d3408815edf261dc943",
+    "fileName": "019da7e5-15db-79dd-943e-cc52e025acbe.glb",
+    "prompt": "An ornate Ottoman wooden Quran stand (Rahle) with intricate mother-of-pearl inlays and floral carvings, dark wood finish, high detail.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "a86213fd01929a1b578d258930aa087e",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

@@ -1,0 +1,12 @@
+{
+    "asset": "b13dee7925b09e8469202291a14cbcbc",
+    "fileName": "019d9f2d-e235-7d5d-9849-1bf5d3d56c42_Preview.jpg",
+    "prompt": "Historical Ottoman palace wall, off-white plaster with very subtle, elegant gold and blue kalem isi floral motifs, matte finish, professional and clean, seamless.",
+    "negativePrompt": "",
+    "model": "1a149e0e-3482-46a2-be9b-de997b8829fb",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 488207701,
+    "w3CTraceId": "fffebd476a11ecd806564ef23e7d346a",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

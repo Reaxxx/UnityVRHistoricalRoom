@@ -1,0 +1,12 @@
+{
+    "asset": "90c7dd1a1a34d45489e970ddb7ffbf7b",
+    "fileName": "019d9f42-3b0c-7b50-8144-04b99fd3c53f_Preview.jpg",
+    "prompt": "Historical Ottoman floor tiles, light beige marble tiles with dark geometric borders, museum style, seamless.",
+    "negativePrompt": "",
+    "model": "1a149e0e-3482-46a2-be9b-de997b8829fb",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 932705446,
+    "w3CTraceId": "6d59fd6f171c905cdb89da1913f242d3",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

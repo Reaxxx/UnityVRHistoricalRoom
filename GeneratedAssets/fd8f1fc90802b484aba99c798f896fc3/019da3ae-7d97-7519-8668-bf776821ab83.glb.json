@@ -1,0 +1,12 @@
+{
+    "asset": "fd8f1fc90802b484aba99c798f896fc3",
+    "fileName": "019da3ae-7d97-7519-8668-bf776821ab83.glb",
+    "prompt": "A 3D sculpture of an Ottoman Sultan's Tughra calligraphic monogram on an ornate marble and gold stand, historical museum artifact, high detail, realistic textures.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "9529bc6f72719165d9bc3084fd93bb28",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

@@ -1,0 +1,12 @@
+{
+    "asset": "ad39b4198649da94fab32bdf59422d80",
+    "fileName": "019d9f22-587e-741f-a362-55afe75643e7_Preview.jpg",
+    "prompt": "High-resolution, seamless Ottoman Usak carpet, dark red and navy blue dominant colors, intricate traditional patterns, antique look, luxurious wool texture, tileable.",
+    "negativePrompt": "",
+    "model": "1a149e0e-3482-46a2-be9b-de997b8829fb",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 1857071185,
+    "w3CTraceId": "925525b026f8b0ff6e35662610c8911c",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

@@ -1,0 +1,12 @@
+{
+    "asset": "8e6cecb62d6f6274c84424a473c1591c",
+    "fileName": "019d9f43-c017-7805-9501-afdfec3c4922.glb",
+    "prompt": "Hanging Ottoman lamp, ornate metal and stained glass, historical museum style.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "bc54fe83b33aba5e754f35333858a56c",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

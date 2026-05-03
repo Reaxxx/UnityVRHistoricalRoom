@@ -1,0 +1,12 @@
+{
+    "asset": "1c9f59379dd0502478208e082be16e0e",
+    "fileName": "019d9f1d-19fd-7baf-a373-1d3f4366c6d3_Preview.jpg",
+    "prompt": "High-resolution Ottoman palace wall texture, white marble with elegant gold engravings and kalem isi patterns, luxurious, seamless, pbr.",
+    "negativePrompt": "",
+    "model": "1a149e0e-3482-46a2-be9b-de997b8829fb",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 754302191,
+    "w3CTraceId": "db080b223a36840ae0bd81703f02f2c9",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

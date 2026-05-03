@@ -1,0 +1,12 @@
+{
+    "asset": "46501239808823a4fb11d24cfe8ec3aa",
+    "fileName": "019da2d6-a2d6-71e8-9612-63e81928d289.glb",
+    "prompt": "Traditional Ottoman workshop table for an inventor, thick carved oak wood, sturdy flat surface, Islamic geometric patterns on the sides, antique look, realistic materials, high detail.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "150de4b8fe6c1816196f5a652e69b059",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

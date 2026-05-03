@@ -1,0 +1,12 @@
+{
+    "asset": "be07863cc122eaa469c3099493f98128",
+    "fileName": "019da2d8-c664-7f96-b1ca-9daca4f56bb4.glb",
+    "prompt": "Sturdy Ottoman imperial display table, rectangular, thick dark wood, gold leaf engravings on the legs and edges, flat top for museum exhibition, 4k high definition textures, historical masterpiece.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "c79779c63acc604b84e7f13354aeb04c",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

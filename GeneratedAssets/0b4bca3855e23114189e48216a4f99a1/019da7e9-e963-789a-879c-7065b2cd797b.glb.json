@@ -1,0 +1,12 @@
+{
+    "asset": "0b4bca3855e23114189e48216a4f99a1",
+    "fileName": "019da7e9-e963-789a-879c-7065b2cd797b.glb",
+    "prompt": "A historical Ottoman scientific instrument: An ornate brass Astrolabe (Usturlap) with complex astronomical engravings and rotating parts, antique gold/brass finish, high detail, educational artifact.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "b04be6ccb4d1ab2dedb6a91d4709d8cf",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

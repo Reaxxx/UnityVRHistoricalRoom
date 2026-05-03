@@ -1,0 +1,12 @@
+{
+    "asset": "f371e71c9a03da4488a6f77e09930d9b",
+    "fileName": "019da8a7-1f01-73c8-a3e3-9d7e8284df69.glb",
+    "prompt": "An ornate Ottoman style hanging lamp, intricate brass or copper metalwork with colorful glass patterns, traditional Turkish design, lantern shape, realistic materials, high detail.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "1adb94d50bbebbf9468062a7cc9978ce",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

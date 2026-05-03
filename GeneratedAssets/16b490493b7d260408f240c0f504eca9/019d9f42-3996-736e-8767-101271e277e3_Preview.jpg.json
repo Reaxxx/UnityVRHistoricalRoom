@@ -1,0 +1,12 @@
+{
+    "asset": "16b490493b7d260408f240c0f504eca9",
+    "fileName": "019d9f42-3996-736e-8767-101271e277e3_Preview.jpg",
+    "prompt": "Golden Arabic calligraphy on dark walnut wood beam, historical Ottoman palace style, elegant, seamless.",
+    "negativePrompt": "",
+    "model": "1a149e0e-3482-46a2-be9b-de997b8829fb",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 666971073,
+    "w3CTraceId": "66164a7416bcefe5d69fac8cf538dd53",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

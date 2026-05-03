@@ -1,0 +1,12 @@
+{
+    "asset": "9c5fc601cfc0a354dab2487e5f5749b4",
+    "fileName": "019da7d1-b1ff-75dd-a140-f4ac6a7371e5.glb",
+    "prompt": "A decorative Ottoman dagger (Yataghan) with an ivory handle and a gold-inlaid scabbard, historical artifact, high detail.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "eecde94403752887b49b283b102e0a69",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

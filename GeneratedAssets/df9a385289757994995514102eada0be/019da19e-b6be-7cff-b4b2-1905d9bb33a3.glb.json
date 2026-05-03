@@ -1,0 +1,12 @@
+{
+    "asset": "df9a385289757994995514102eada0be",
+    "fileName": "019da19e-b6be-7cff-b4b2-1905d9bb33a3.glb",
+    "prompt": "a stylish indoor potted plant with large green leaves in a white ceramic pot",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "921662443e465b56731a5b56a88bdab6",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

@@ -1,0 +1,12 @@
+{
+    "asset": "81d8ac192e13ded4b8c6bbd16dd74dbe",
+    "fileName": "019d9f28-2cd4-7715-b7d8-4458760bc5e2_Preview.jpg",
+    "prompt": "Elegant, high-resolution, seamless Ottoman palace carpet with sophisticated traditional patterns, subdued rich red and deep cream colors, luxurious silk and wool texture, historical and not garish, tileable.",
+    "negativePrompt": "",
+    "model": "1a149e0e-3482-46a2-be9b-de997b8829fb",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 13626732,
+    "w3CTraceId": "e46614d8b40f8a5651042a92d7fb091a",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

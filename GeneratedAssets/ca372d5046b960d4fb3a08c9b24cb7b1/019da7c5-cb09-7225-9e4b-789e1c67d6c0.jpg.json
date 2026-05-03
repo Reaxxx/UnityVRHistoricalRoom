@@ -1,0 +1,27 @@
+{
+    "asset": "ca372d5046b960d4fb3a08c9b24cb7b1",
+    "fileName": "019da7c5-cb09-7225-9e4b-789e1c67d6c0.jpg",
+    "prompt": "Ottoman style landscape painting of a palace garden with a fountain and cypress trees, classical Turkish art style, oil painting on canvas texture, ornate gold frame.",
+    "negativePrompt": "",
+    "model": "f722aea3-8760-4eb1-a516-e2fce6476303",
+    "modelName": "Seedream 4",
+    "customSeed": -1,
+    "w3CTraceId": "98bfb21885ce342600596167dc8c4800",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

@@ -1,0 +1,12 @@
+{
+    "asset": "c134ee133e69f484c9d0ec3e128642ee",
+    "fileName": "019da7dc-fcf7-77fe-83b1-53b88d94acff.glb",
+    "prompt": "A traditional Ottoman glass and brass Nargile (Hookah), ornate blue glass base with golden patterns, long flexible pipe, high detail, historical artifact.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "fb9a38fccaf5f1e734a7e82321426a6a",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

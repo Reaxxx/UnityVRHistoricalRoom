@@ -1,0 +1,12 @@
+{
+    "asset": "5055b68072f300046879afe691a8fb40",
+    "fileName": "019d9f22-587e-766c-abcd-b854bcdb3710_Preview.jpg",
+    "prompt": "Matte Iznik tiles, historical patterns, turquoise and dark blue floral motifs on white background, antique weathered look, seamless, Ottoman style.",
+    "negativePrompt": "",
+    "model": "1a149e0e-3482-46a2-be9b-de997b8829fb",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 1451784201,
+    "w3CTraceId": "db31c5a737d4b97f74e931ab900d74d5",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

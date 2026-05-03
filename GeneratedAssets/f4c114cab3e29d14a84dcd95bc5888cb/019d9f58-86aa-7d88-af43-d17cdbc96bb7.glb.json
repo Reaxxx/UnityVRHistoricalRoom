@@ -1,0 +1,12 @@
+{
+    "asset": "f4c114cab3e29d14a84dcd95bc5888cb",
+    "fileName": "019d9f58-86aa-7d88-af43-d17cdbc96bb7.glb",
+    "prompt": "Tall, ornate Ottoman column with detailed carved base and capital, historical palace style, perfect for supporting a high ceiling.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "7afb4771bd5d2976d2df6e37b1537323",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

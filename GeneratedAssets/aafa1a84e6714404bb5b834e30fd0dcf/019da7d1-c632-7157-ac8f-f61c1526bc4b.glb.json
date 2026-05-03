@@ -1,0 +1,12 @@
+{
+    "asset": "aafa1a84e6714404bb5b834e30fd0dcf",
+    "fileName": "019da7d1-c632-7157-ac8f-f61c1526bc4b.glb",
+    "prompt": "A traditional Ottoman brass coffee pot (Cezve) with intricate engravings and a long handle, antique metal finish, high detail.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "9a09ac90ad50d7b26eec3b564a85bf8d",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

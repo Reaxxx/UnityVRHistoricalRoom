@@ -1,0 +1,12 @@
+{
+    "asset": "eb0db4a3ca0d60144b43b60ef50df2e2",
+    "fileName": "019d9f62-d37f-748f-a2b8-34eabf0e0637.glb",
+    "prompt": "Low rectangular Ottoman exhibition table. Light brown wood with intricate floral and geometric carvings on the sides. Features traditional Islamic arched supports (pointed arches) between the legs. Flat rectangular table top. Historical museum display furniture. Empty top.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "40ffb0d9a2288e9202fc85d024fc3269",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

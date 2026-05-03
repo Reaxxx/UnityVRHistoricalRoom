@@ -1,0 +1,12 @@
+{
+    "asset": "ae708a27429fdcc43a458d7c6bffd0c4",
+    "fileName": "019da3ad-b69a-7ac8-bbc6-716fb74e3404.glb",
+    "prompt": "A traditional Ottoman Khanjar dagger with a curved blade, silver handle with emerald inlays, displayed on a wooden stand, historical masterpiece, 4k textures.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "604b77e63e749016b42901787250c7bc",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

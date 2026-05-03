@@ -1,0 +1,12 @@
+{
+    "asset": "48c7bd5e2a79adc42961206e3012b3fe",
+    "fileName": "019da2d6-cb2c-7305-b358-9b69e4da7752.glb",
+    "prompt": "Highly detailed Ottoman Empire style exhibition table, museum quality, dark mahogany wood with gold carvings, flat top for displaying artifacts, ornate legs, historical Middle Eastern aesthetic, realistic 4k textures.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "b74f599881bf14a54e331e327c6d5007",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

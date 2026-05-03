@@ -1,0 +1,12 @@
+{
+    "asset": "6da8c0fdfea7356478b55552c06d9bb3",
+    "fileName": "019d9f22-597b-7942-bd11-e61a311ed60f_Preview.jpg",
+    "prompt": "Dark carved mahogany wood paneling, Ottoman palace style, intricate relief carvings, matte finish, seamless wood grain, tileable.",
+    "negativePrompt": "",
+    "model": "1a149e0e-3482-46a2-be9b-de997b8829fb",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 1549301473,
+    "w3CTraceId": "20b533d8f3183dc61257d4be964c1b1a",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

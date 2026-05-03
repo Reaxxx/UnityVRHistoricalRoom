@@ -1,0 +1,27 @@
+{
+    "asset": "c81344da98d3c834c8b575c147114b85",
+    "fileName": "019da7c5-f6ca-7aab-99d7-987bfdb0c1c3.jpg",
+    "prompt": "Ottoman style landscape painting of a traditional Turkish village with minarets and mountains in the background, vintage orientalist style, oil painting on canvas texture, ornate gold frame.",
+    "negativePrompt": "",
+    "model": "f722aea3-8760-4eb1-a516-e2fce6476303",
+    "modelName": "Seedream 4",
+    "customSeed": -1,
+    "w3CTraceId": "aefbb0a9279a38e9b3809c9e2131b398",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

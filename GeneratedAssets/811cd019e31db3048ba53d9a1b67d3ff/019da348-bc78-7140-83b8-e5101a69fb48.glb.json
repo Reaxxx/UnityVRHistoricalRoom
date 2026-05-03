@@ -1,0 +1,12 @@
+{
+    "asset": "811cd019e31db3048ba53d9a1b67d3ff",
+    "fileName": "019da348-bc78-7140-83b8-e5101a69fb48.glb",
+    "prompt": "A detailed, ceiling-mounted traditional Ottoman-style glass and brass filigree chandelier for a historical palace room. The model should feature intricate, aged brass metalwork forming a large central frame, supporting several glass lanterns with complex geometric patterns. It must have warm, glowing filament bulbs inside the glass. The glass should have slight opalescence. The style needs to be a rich blend of Ottoman craftsmanship and historical elegance. Includes suspension chain and ceiling mount. 4k realistic textures.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "60513d211ab4287ed8b5438aa272f4e3",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

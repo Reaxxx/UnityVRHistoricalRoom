@@ -1,0 +1,12 @@
+{
+    "asset": "78246c490640a3a418085c65a40b2238",
+    "fileName": "019da1cf-8a2b-70c4-9134-9bfff2a6d72d.glb",
+    "prompt": "a decorative Ottoman brass coffee set on a tray",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "b3ac76a73b42dcfb25412bb5e20a14f7",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

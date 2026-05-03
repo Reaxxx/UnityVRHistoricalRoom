@@ -1,0 +1,12 @@
+{
+    "asset": "0288093731e8fc8439f093d204482dc4",
+    "fileName": "019da3ad-b72d-7447-9f1f-93df45f60e7a.glb",
+    "prompt": "A traditional Ottoman coffee service on a tray, including small porcelain cups with filigree metal holders and a copper coffee pot (cezve), realistic materials, antique look.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "49123eb61e77f293d87747b6b3ed71eb",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

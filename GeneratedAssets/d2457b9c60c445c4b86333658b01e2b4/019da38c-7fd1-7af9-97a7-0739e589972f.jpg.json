@@ -1,0 +1,27 @@
+{
+    "asset": "d2457b9c60c445c4b86333658b01e2b4",
+    "fileName": "019da38c-7fd1-7af9-97a7-0739e589972f.jpg",
+    "prompt": "Cinematic panoramic 360 view of historical Ottoman Istanbul, view from a high palace balcony, Hagia Sophia and Blue Mosque silhouettes in the distance, Bosphorus sea with wooden sailboats, traditional Ottoman architecture, warm sunset lighting, 4k high definition, atmospheric hazy horizon, golden hour.",
+    "negativePrompt": "",
+    "model": "b6e4038c-d863-467d-bb74-4ad8cfd22665",
+    "modelName": "Cinematic",
+    "customSeed": -1,
+    "w3CTraceId": "c40b94c14634d6a69b9fc6f49ca4b64a",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

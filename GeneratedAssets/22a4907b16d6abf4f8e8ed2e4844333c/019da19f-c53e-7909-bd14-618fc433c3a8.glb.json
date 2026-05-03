@@ -1,0 +1,12 @@
+{
+    "asset": "22a4907b16d6abf4f8e8ed2e4844333c",
+    "fileName": "019da19f-c53e-7909-bd14-618fc433c3a8.glb",
+    "prompt": "a modern minimalist floor lamp with a gold finish",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "ee0752eca36fb69306a637283af8eedf",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

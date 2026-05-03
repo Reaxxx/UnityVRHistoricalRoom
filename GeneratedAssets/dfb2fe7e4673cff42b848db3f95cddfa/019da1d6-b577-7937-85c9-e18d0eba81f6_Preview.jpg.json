@@ -1,0 +1,12 @@
+{
+    "asset": "dfb2fe7e4673cff42b848db3f95cddfa",
+    "fileName": "019da1d6-b577-7937-85c9-e18d0eba81f6_Preview.jpg",
+    "prompt": "off-white minimalist plaster wall texture, museum gallery style, clean and smooth, high resolution, seamless",
+    "negativePrompt": "",
+    "model": "1a149e0e-3482-46a2-be9b-de997b8829fb",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 797025064,
+    "w3CTraceId": "0b9bec27d96951f2686e75431cf8d4ab",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

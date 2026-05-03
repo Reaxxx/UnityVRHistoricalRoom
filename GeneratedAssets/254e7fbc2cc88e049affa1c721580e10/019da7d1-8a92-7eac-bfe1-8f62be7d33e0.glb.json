@@ -1,0 +1,12 @@
+{
+    "asset": "254e7fbc2cc88e049affa1c721580e10",
+    "fileName": "019da7d1-8a92-7eac-bfe1-8f62be7d33e0.glb",
+    "prompt": "An ornate Iznik ceramic bowl with blue and white floral patterns, traditional Ottoman pottery, high detail, realistic material.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "f7ec55d3c7bf182721a43274372cc9ab",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

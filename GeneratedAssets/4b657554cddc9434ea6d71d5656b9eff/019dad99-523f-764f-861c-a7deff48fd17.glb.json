@@ -1,0 +1,12 @@
+{
+    "asset": "4b657554cddc9434ea6d71d5656b9eff",
+    "fileName": "019dad99-523f-764f-861c-a7deff48fd17.glb",
+    "prompt": "An intricately detailed, traditional Ottoman-style astrolabe, forged from aged, tarnish-patina brass. The design must be incredibly ornate, featuring complex, multi-layered engravings, delicate filigree, and Islamic calligraphic inscriptions across its body. Focus on rendering the 'rete' (star map) as a complex, star-shaped structure with precise pointers. The pointer, 'alidade', must be clearly defined. The entire object should look worn yet valuable, with polished high points contrasting against darkened crevices. Model must include the mater, the tympan, the rete, and the alidade, all in rich, detailed brass. High geometric quality, production-ready prop.",
+    "negativePrompt": "",
+    "model": "f923f4af-999c-47c7-b9bf-b8952ffe003e",
+    "modelName": "Rodin Hyper 3D",
+    "customSeed": -1,
+    "w3CTraceId": "b83827bb96e5dc5527486e70158f0bd6",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

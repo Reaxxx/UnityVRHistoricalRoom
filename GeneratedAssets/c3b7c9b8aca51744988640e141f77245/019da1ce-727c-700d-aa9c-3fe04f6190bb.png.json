@@ -1,0 +1,27 @@
+{
+    "asset": "c3b7c9b8aca51744988640e141f77245",
+    "fileName": "019da1ce-727c-700d-aa9c-3fe04f6190bb.png",
+    "prompt": "an oil painting of the Blue Mosque and Hagia Sophia at sunset, orange and purple sky, classical style",
+    "negativePrompt": "",
+    "model": "856245a7-19a9-46f3-864c-899b31fd5f9f",
+    "modelName": "Nano Banana - T2i",
+    "customSeed": -1,
+    "w3CTraceId": "9f4c9551515a0a45db0a8e57ec7f6633",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}
