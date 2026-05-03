@@ -25,4 +25,4 @@ Clone the repository: git clone https://github.com/Reaxxx/UnityVRHistoricalRoom
 
 Open the project in Unity Hub using version 6 (6000.0.40f1).
 
-Ensure the Universal Render Pipeline package is correctly configured in Project Settings.
+Ensure the Universal Render Pipeline package is correctly configured in Project Settings. 
